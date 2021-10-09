@@ -1,0 +1,178 @@
+<?php
+
+
+return [
+    'dashboard' => 'Dashboard',
+
+    'user' => 'User',
+    'users' => 'Users',
+    'manage_users' => 'Manage Users',
+    'all_users' => 'All Users',
+    'new_user' => 'New User',
+    'edit_user' => 'Edit User',
+
+
+    'manager' => 'Manager',
+    'managers' => 'Managers',
+    'all_managers' => 'All Managers',
+    'new_manager' => 'New Manager',
+    'edit_manager' => 'Edit Manager',
+
+
+    'city' => 'City',
+    'cities' => 'Cities',
+    'all_cities' => 'All Cities',
+    'new_city' => 'New City',
+
+    'category' => 'Category',
+    'choose_main_category' => 'Choose Main Category',
+    'categories' => 'Categories',
+    'all_categories' => 'All Categories',
+    'new_category' => 'New Category',
+    'edit_category' => 'Edit Category',
+
+
+    'departments' => 'Departments',
+    'choose_department' => 'Choose Department',
+    'all_departments' => 'All Departments',
+    'new_department' => 'New Department',
+    'edit_department' => 'Edit Departments',
+
+
+    'main_category' => 'Main Category',
+    'choose_main_category' => 'Choose Main Category',
+    'main_categories' => 'Main Categories',
+    'all_main_categories' => 'All Main Categories',
+    'new_main_category' => 'New Main Category',
+    'edit_main_category' => 'Edit Main Category',
+
+
+    'subcategory' => 'SubCategory',
+    'choose_subcategory' => 'Choose SubCategory',
+    'subcategories' => 'SubCategories',
+    'all_subcategories' => 'All SubCategories',
+    'new_subcategory' => 'New SubCategory',
+
+    'quantity' => 'Quantity',
+    'quantities' => 'Quantities',
+    'all_quantities' => 'All Quantities',
+    'new_quantity' => 'Add New Quantity',
+    'edit_quantity' => 'Edit Quantity',
+
+
+    'brand' => 'Brand',
+    'brands' => 'Brands',
+    'all_brands' => 'All Brands',
+    'new_brand' => 'New Brand',
+
+
+    'product' => 'Product',
+    'products' => 'Products',
+    'all_products' => 'All Products',
+    'new_product' => 'New Product',
+    'edit_service' => 'Edit Service',
+    'imagesOfService' => 'images Of Service',
+    'product_name' => 'Product Name',
+
+
+    'company' => 'Company',
+    'companies' => 'Companies',
+    'all_company' => 'All Company',
+    'new_company' => 'New Company',
+
+    'slider' => 'Slider',
+    'sliders' => 'Sliders',
+    'all_sliders' => 'All Sliders',
+    'new_slider' => 'New Slider',
+
+    'contact' => 'Contacts',
+    'all_contacts' => 'All Contacts',
+
+    'ads' => 'Ads',
+    'all_ads' => 'All Ads',
+    'new_ads' => 'New Ads',
+
+
+    'social_media' => 'Social Media',
+    'all_social' => 'All Social Media',
+    'new_social' => 'New Social Media',
+
+
+    'settings' => 'Settings',
+    'statistics' => 'Statistics',
+
+    'orders' => 'Orders',
+    'order' => 'Order',
+    'all_orders' => 'All Orders',
+    'new_order' => 'New Order',
+    'all_orders_trash' => 'All Trashed Orders',
+
+    'notification_messages' => 'Notification Messages',
+    'all_messages' => 'All Messages',
+    'new_message' => 'New Message',
+
+    'pages' => 'Pages',
+    'all_pages' => 'All Pages',
+    'executor_name' => 'Name Of Executor',
+    'clients'=>'Clients',
+    'new_clients'=>'New Clients',
+    'new_client'=>'New Client',
+    'edit_client'=>'Edit Client',
+    'all_clients'=>'All Clients',
+    'works'=>'Works',
+    'all_works'=>'All Works',
+    'new_works'=>'New Works',
+    'edit_work'=>'Edit Work',
+    'instructions'=>'Instructions',
+    'all_instructions'=>'All Instructions',
+    'new_instruction'=>'New Instruction',
+    'edit_instruction'=>'Edit Instruction',
+    'articles'=>'Articles',
+    'all_articles'=>'All Articles',
+    'new_article'=>'New Article',
+    'edit_article'=>'Edit Article',
+    'new_work'=>'New Work',
+    'partners'=>'Partners',
+    'all_partners'=>'All Partners',
+    'new_partner'=>'New Partner',
+    'contacts'=>'Contacts',
+    'all_contacts'=>'All Contacts',
+    'reports'=>'Reports',
+    'all_reports'=>'All Reports',
+    'new_reports'=>'New Report',
+    'new_report'=>'New Report',
+    'new_partners'=>'New Partner',
+    'edit_comment'=>'Edit Comments',
+    'comments'=>'Comments',
+    'sellers'=>'Sellers',
+    'edit_seller'=>'Edit Sellers',
+    'saffqat'=>'Saffqat',
+    'advertisments'=>'Advertisments',
+    'edit_advertisment'=>'Edit Advertisments',
+    'advertisments_seller'=>'Advertisments Seller',
+    'investors'=>'Investors',
+    'providers'=>'Providers',
+    'rents'=>'Rents',
+    'edit_slider'=>'Edit Slider',
+    'countries'=>'Countries',
+    'all_countries'=>'All Countries',
+    'new_country'=>'New Country',
+    'country'=>'Country',
+    'google'=>'Google',
+    'imageabout'=>'Image',
+    'imagelogo'=>'Image Logo',
+    'edit_report'=>'Edit New',
+    'new_report'=>'New News',
+    'new_report'=>'New News',
+    'all_reports'=>'All News',
+    'reports'=>'News',
+    'new_advertisment'=>'New Advertisment',
+    'types'=>'Types',
+    'type'=>'Types',
+    'all_types'=>'All Types',
+    'new_type'=>'New Type',
+    'edit_city'=>'Edit City',
+    'comment'=>'Comments',
+    'seller'=>'Seller',
+    'edit_type'=>'Edit Type',
+];
